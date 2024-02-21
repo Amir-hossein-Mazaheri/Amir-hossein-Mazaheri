@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Mazaheri</h1>
-<h3 align="center">A Nice FullStack Developer with passion</h3>
+<h3 align="center">A Nice FullStack Developer that uses Neovim with passion 😎</h3>
 
 - 🔭 I’m currently working on **Getting better 😎**
 
